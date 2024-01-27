@@ -27,10 +27,8 @@
     "DenyDeviceIDsRetroactive"=dword:00000000
 
     [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall\Restrictions\DenyDeviceIDs]
-    "1"="HardwareIDs"
-    "2"="HardwareIDs"
-    "3"="HardwareIDs"
-
+    "1"="USB\VID_046D&PID_082C&REV_0011&MI_02"
+    "2"="USB\VID_046D&PID_082C&MI_02"
 
 
 
