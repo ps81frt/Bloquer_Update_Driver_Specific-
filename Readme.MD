@@ -1,5 +1,8 @@
 # Bloquer la mise a jour d'un ou plusieurs pilote specifique
 
+![Alt text(C:\Users\CA81.SSD\Desktop\peri.png)]
+
+
 ## optionnel Pour les utilisateur d'une version familliale activer(installer) GPEDIT.MSC
 
         @echo off 
