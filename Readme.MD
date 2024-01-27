@@ -18,6 +18,8 @@
 ## Remplacer la valeur HardwareIDs par les id du periphérique en question 
 ### Enregister en .reg
 
+exemple avec les Id de l'image (commande précédentes)
+
     Windows Registry Editor Version 5.00
 
     [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall]
