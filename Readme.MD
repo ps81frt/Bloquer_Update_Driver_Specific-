@@ -1,6 +1,6 @@
 # Bloquer la mise a jour d'un ou plusieurs pilote specifique
 
-![Alt text(https://ibb.co/026XVTF)]
+![Ajout image](peri.png)
 
 
 ## optionnel Pour les utilisateur d'une version familliale activer(installer) GPEDIT.MSC
